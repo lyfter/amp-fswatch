@@ -1,5 +1,5 @@
 {
-    "name": "phpactor/amp-fswatch",
+    "name": "lyfter/amp-fswatch",
     "type": "library",
     "description": "Async Filesystem Watcher for Amphp",
     "license": "MIT",
